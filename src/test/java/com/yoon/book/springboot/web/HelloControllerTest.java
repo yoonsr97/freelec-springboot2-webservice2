@@ -1,4 +1,4 @@
-package com.yoon.book.springboot;
+package com.yoon.book.springboot.web;
 
 
 import org.junit.Test;
